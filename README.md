@@ -1,6 +1,4 @@
 # EDA_Project
-# ML-Projects
-# Machine Learning Projects Repository
 
 This repository contains a collection of EDA projects showcasing various visualizations, data cleaning and data preprocessings. Each project is organized within its own directory, accompanied by a brief description and necessary instructions for reproducing or running the project.
 
